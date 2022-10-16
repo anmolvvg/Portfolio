@@ -14,9 +14,6 @@ Honestly, it took me a long time to build this website. This website is built wi
 ## How I hosted it?
 I hosted this website on [Netlify](https://www.netlify.com). Netlify lets you host websites for free with auto https etc
 
-## License
-
-This project is under the [MIT](https://choosealicense.com/licenses/mit/) license 
 
 
 ### Status
