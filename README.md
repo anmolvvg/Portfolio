@@ -4,7 +4,7 @@ This is my personal portfolio
 
 ## How can I view or visit the site?
 
-It is very simple. Just go to [this](https://harinandan123.netlify.app/) website. Its hosted on netlify so you don't have to worry about security,privacy etc.
+It is very simple. Just go to [this]() website. Its hosted on netlify so you don't have to worry about security,privacy etc.
 
 
 ## How long it took
@@ -21,4 +21,4 @@ This project is under the [MIT](https://choosealicense.com/licenses/mit/) licens
 
 ### Status
 
-The Status of the site - [![Netlify Status](https://api.netlify.com/api/v1/badges/04943c6b-b506-4d95-b48d-5114bec1d3d9/deploy-status)](https://app.netlify.com/sites/harinandan123/deploys)
+The Status of the site - [![Netlify Status](https://api.netlify.com/api/v1/badges/04943c6b-b506-4d95-b48d-5114bec1d3d9/deploy-status)]()
