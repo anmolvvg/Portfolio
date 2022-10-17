@@ -14,6 +14,10 @@ Honestly, it took me a long time to build this website. This website is built wi
 ## How I hosted it?
 I hosted this website on [Netlify](https://www.netlify.com). Netlify lets you host websites for free with auto https etc
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 10694cb57d750d3f8632310b132a8892cb7eb5d5
 
 ### Status
 
